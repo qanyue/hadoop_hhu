@@ -19,7 +19,7 @@ Hadoop网页管理地址:
 
   ![img](image/README/1653316404666.png)
 
-#### ** 运行wordcount测试**
+#### **运行wordcount测试**
 
 ```shell
 ./run-wordcount.sh
@@ -40,7 +40,7 @@ Hello	2
 
 注意事项
 
-1. 在运行 start-container.sh 后请勿再次运行,在此运行会删除原有镜像。数据会消失
+1. 在运行 start-container.sh 后请勿再次运行该命令,再次运行会删除原有镜像。数据会消失
 2. 如想进入hadoop操作界面 以root权限输入
 
    ```shell
