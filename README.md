@@ -12,10 +12,8 @@ bash  ./start-container.sh
 
 Hadoop网页管理地址:
 
-* NameNode: http://192.168.1.128:9870
-* ResourceManager: http://192.168.1.128:8088
-
-  192.168.1.128为运行容器的主机的IP。
+* NameNode: http://<本机ip地址>:9870
+* ResourceManager: http://<本机ip地址>:8088
 
   ![img](image/README/1653316404666.png)
 
