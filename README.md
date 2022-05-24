@@ -20,7 +20,7 @@
 ## Hadoop网页管理地址
 
 * NameNode: http://<主机ip地址>:9870
-* ResourceManager: http://<本机ip地址>:8088
+* ResourceManager: http://<主机ip地址>:8088
 
   ![img](image/README/1653316404666.png)
 
